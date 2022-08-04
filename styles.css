@@ -31,12 +31,9 @@ img {
     margin: 0;
 }
 .gallery {
-    width: 90%;
-    text-align: center;
+    width: 790px;
     margin: auto;
     display: flex;
-    justify-content: center;
-    flex-basis: 150px;
     flex-wrap: wrap;
     gap: 10px;
 }
